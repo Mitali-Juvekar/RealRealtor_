@@ -10,17 +10,26 @@ Real Estate App Development | React.js, Node.js, MongoDB, Socket.io
 Currently, the frontend development is nearly complete with the following features:
 
 Navbar (constant across all pages)
+
 Hamburger menu design
+
 Homepage design
+
 Listings page with a filter/search bar
+
 Responsive React leaflet map beside listings
+
 React-router-dom setup for navigation (homepage, listings page, single property page)
 
 
 Remaining tasks include:
 
 Responsive single property page design
+
 Image slider
+
 Property features design
+
 User profile page
+
 Chat component and window
