@@ -9,6 +9,10 @@ Objective: Designed and developed a full-stack real estate booking system with R
 
 Currently, the frontend development is nearly complete with the following features:
 - ~~Navbar (constant across all pages)~~
+![Screenshot 2024-07-14 at 3 03 39 PM](https://github.com/user-attachments/assets/18c5528b-6b62-475d-9eb8-13146dc21612)
+
+
+  
 - ~~Hamburger menu design~~
 - ~~Homepage design~~
 - ~~Listings page with a filter/search bar~~
