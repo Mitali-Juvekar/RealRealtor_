@@ -12,7 +12,10 @@ Currently, the frontend development is nearly complete with the following featur
 - ~~Navbar (constant across all pages)~~
 ![Screenshot 2024-07-14 at 3 03 39 PM](https://github.com/user-attachments/assets/18c5528b-6b62-475d-9eb8-13146dc21612)
 
+
 - ~~Hamburger menu design~~
+
+  
 ![image](https://github.com/user-attachments/assets/46dd60cb-0153-4070-b3cb-a3a13b990d35)
 
 - ~~React-router-dom setup for navigation (homepage, listings page, single property page)~~
