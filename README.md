@@ -32,3 +32,16 @@ Currently, the frontend development is nearly complete with the following featur
 - User profile page
 - Chat component and window
 
+**Backend Development Progress:**
+
+- ~~Set up Express.js routes.~~
+- ~~Implemented Express.js authentication APIs (register, login, logout) verified with Postman.~~
+- ~~Connected to Prisma MongoDB and initialized a starting database.~~
+- ~~Implemented JWT cookie authentication with Express.js and React.~~
+- ~~Secured routes using JWT cookies.~~
+
+**Remaining Tasks:**
+- **Implement middleware for request processing.**
+- **Create API endpoints for creating posts and fetching data based on URL queries (integrated with React Router DOM).**
+- **Develop functionalities for fetching user profiles and saving profile data.**
+- **Implement chat-related functionalities.**
